@@ -463,7 +463,7 @@ Streamlit
 ## 1. Clonar el repositorio
 
 ```bash
-git clone URL_DEL_REPOSITORIO
+git clone https://github.com/anareyes06/Sistema-de-Inferencia-con-Regresi-n-Log-stica
 ```
 
 Entrar a la carpeta del proyecto:
